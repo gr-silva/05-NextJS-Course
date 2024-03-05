@@ -17,6 +17,7 @@
     "design-system": "yarn workspace @alura/design-system",
     "utils": "yarn workspace @alura/utils",
     "test:utils": "yarn utils test",
+    "test:web-public": "yarn web-public test",
     "test:design-system": "yarn design-system test"
   },
   "dependencies": {
